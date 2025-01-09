@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository
 <br>
-Author - Pratik J
+Author - Pratik J (Technosoft Solutions)
